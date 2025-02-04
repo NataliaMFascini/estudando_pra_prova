@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7193483-FF5E-4A06-811E-07EB48927479}|estudando_pra_prova06\\estudando_pra_prova06.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7193483-FF5E-4A06-811E-07EB48927479}|estudando_pra_prova06\\estudando_pra_prova06.csproj|solutionrelative:estudando_pra_prova06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3588F2B-A4EA-4BC8-8416-AEC9A78BBFE4}|estudando_pra_prova\\estudando_pra_prova.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3588F2B-A4EA-4BC8-8416-AEC9A78BBFE4}|estudando_pra_prova\\estudando_pra_prova.csproj|solutionrelative:estudando_pra_prova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC517CEC-4DD2-44DA-AF39-087FE11BD7C3}|estudando_pra_prova05\\estudando_pra_prova05.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC517CEC-4DD2-44DA-AF39-087FE11BD7C3}|estudando_pra_prova05\\estudando_pra_prova05.csproj|solutionrelative:estudando_pra_prova05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{DFE346EA-E39C-4545-B905-19C6EB3DAE5E}|estudando_pra_prova04\\estudando_pra_prova04.csproj|solutionrelative:estudando_pra_prova04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D680386B-E2AC-4052-A6A5-E6CD4FECD6C1}|estudando_pra_prova02\\estudando_pra_prova02.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D680386B-E2AC-4052-A6A5-E6CD4FECD6C1}|estudando_pra_prova02\\estudando_pra_prova02.csproj|solutionrelative:estudando_pra_prova02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{605E58E1-EE47-4BC5-903A-8E98A0CD67F0}|estudando_pra_prova03\\estudando_pra_prova03.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{605E58E1-EE47-4BC5-903A-8E98A0CD67F0}|estudando_pra_prova03\\estudando_pra_prova03.csproj|solutionrelative:estudando_pra_prova03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D680386B-E2AC-4052-A6A5-E6CD4FECD6C1}|estudando_pra_prova02\\estudando_pra_prova02.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D680386B-E2AC-4052-A6A5-E6CD4FECD6C1}|estudando_pra_prova02\\estudando_pra_prova02.csproj|solutionrelative:estudando_pra_prova02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A54B262E-5083-4712-A067-9D94834D75F1}|estudando_pra_prova01\\estudando_pra_prova01.csproj|c:\\users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,63 +44,89 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova05\\Program.cs",
-              "RelativeDocumentMoniker": "estudando_pra_prova05\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova05\\Program.cs",
-              "RelativeToolTip": "estudando_pra_prova05\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABTAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova06\\Program.cs",
+              "RelativeDocumentMoniker": "estudando_pra_prova06\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova06\\Program.cs",
+              "RelativeToolTip": "estudando_pra_prova06\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T19:18:07.9Z",
+              "WhenOpened": "2025-02-04T20:07:20.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova04\\Program.cs",
-              "RelativeDocumentMoniker": "estudando_pra_prova04\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova04\\Program.cs",
-              "RelativeToolTip": "estudando_pra_prova04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova\\Program.cs",
+              "RelativeDocumentMoniker": "estudando_pra_prova\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova\\Program.cs",
+              "RelativeToolTip": "estudando_pra_prova\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T18:07:15.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova03\\Program.cs",
-              "RelativeDocumentMoniker": "estudando_pra_prova03\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova03\\Program.cs",
-              "RelativeToolTip": "estudando_pra_prova03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:46:47.497Z",
+              "WhenOpened": "2025-02-04T19:51:45.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova02\\Program.cs",
-              "RelativeDocumentMoniker": "estudando_pra_prova02\\Program.cs",
-              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova02\\Program.cs",
-              "RelativeToolTip": "estudando_pra_prova02\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova05\\Program.cs",
+              "RelativeDocumentMoniker": "estudando_pra_prova05\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova05\\Program.cs",
+              "RelativeToolTip": "estudando_pra_prova05\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T17:30:41.036Z",
+              "WhenOpened": "2025-02-04T19:18:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova04\\Program.cs",
+              "RelativeDocumentMoniker": "estudando_pra_prova04\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova04\\Program.cs",
+              "RelativeToolTip": "estudando_pra_prova04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:07:15.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova03\\Program.cs",
+              "RelativeDocumentMoniker": "estudando_pra_prova03\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova03\\Program.cs",
+              "RelativeToolTip": "estudando_pra_prova03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:46:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova02\\Program.cs",
+              "RelativeDocumentMoniker": "estudando_pra_prova02\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova02\\Program.cs",
+              "RelativeToolTip": "estudando_pra_prova02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:30:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova01\\Program.cs",
               "RelativeDocumentMoniker": "estudando_pra_prova01\\Program.cs",
               "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\estudando_pra_prova\\estudando_pra_prova01\\Program.cs",
               "RelativeToolTip": "estudando_pra_prova01\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T16:52:34.293Z",
               "EditorCaption": ""

@@ -1,4 +1,4 @@
-﻿using System.ComponentModel;
+﻿//quero mais um bolo
 
 int[] numeros = new int[7];
 int num = 0;
@@ -6,6 +6,7 @@ int num = 0;
 int verificar = 0;
 bool existe = false;
 int posicao = 0;
+
 for (int i = 0; i < numeros.Length; i++)
 {
     Console.WriteLine("Digite um número: ");
@@ -23,14 +24,13 @@ for(int i = 0;i < numeros.Length; i++)
     {
         existe = true;
         posicao = i;
+
+        Console.WriteLine($"O número está na posição {posicao}. Elemento {posicao + 1}.");
     }
+
 }
 
-if (existe)
-{
-    Console.WriteLine($"O número está na posição {posicao}. Elemento {posicao + 1}.");
-}
-else
+if (existe == false)
 {
     Console.WriteLine("Esse número não está presente.");
 }

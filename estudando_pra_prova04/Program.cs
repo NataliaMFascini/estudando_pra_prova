@@ -1,4 +1,5 @@
-﻿double n1;
+﻿//exercicios que deveriam me dar um bolo
+double n1;
 double numTotal = 0;
 
 double soma = 0;

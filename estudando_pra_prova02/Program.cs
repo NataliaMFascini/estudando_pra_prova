@@ -1,4 +1,5 @@
-﻿int total;
+﻿//Soma e média
+int total;
 double numero;
 double soma = 0;
 

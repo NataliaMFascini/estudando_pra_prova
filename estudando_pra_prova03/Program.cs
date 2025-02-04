@@ -1,4 +1,5 @@
-﻿string player1;
+﻿//Jogo de dados
+string player1;
 string player2;
 
 var dado = new Random();

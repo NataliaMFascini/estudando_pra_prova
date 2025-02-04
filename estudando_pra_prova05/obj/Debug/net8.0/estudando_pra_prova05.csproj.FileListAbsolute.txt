@@ -12,3 +12,4 @@ C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05
 C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.pdb
 C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.genruntimeconfig.cache
 C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\ref\estudando_pra_prova05.dll
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.sourcelink.json
