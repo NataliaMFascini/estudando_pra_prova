@@ -1,0 +1,14 @@
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.AssemblyInfoInputs.cache
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.AssemblyInfo.cs
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.csproj.CoreCompileInputs.cache
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\bin\Debug\net8.0\estudando_pra_prova05.exe
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\bin\Debug\net8.0\estudando_pra_prova05.deps.json
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\bin\Debug\net8.0\estudando_pra_prova05.runtimeconfig.json
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\bin\Debug\net8.0\estudando_pra_prova05.dll
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\bin\Debug\net8.0\estudando_pra_prova05.pdb
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.dll
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\refint\estudando_pra_prova05.dll
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.pdb
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\estudando_pra_prova05.genruntimeconfig.cache
+C:\Users\natalia.mfascini\source\repos\estudando_pra_prova\estudando_pra_prova05\obj\Debug\net8.0\ref\estudando_pra_prova05.dll
